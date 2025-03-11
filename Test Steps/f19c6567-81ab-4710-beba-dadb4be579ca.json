@@ -1,0 +1,27 @@
+{
+    "steps": [
+        "step 1: Navigate to /",
+        "step 2: Click on div productItemWrapper",
+        "step 3: Click on div productDetails",
+        "step 4: Click on link productTitle -> Navigate to page 'product#product/*'",
+        "step 5: Click on label colorOption",
+        "step 6: Click on div swiperButtonNext",
+        "step 7: Click on div swiperButtonNext",
+        "step 8: Click on div swiperButtonNext",
+        "step 9: Click on label storageOption256GB",
+        "step 10: Click on label storageOption512GB",
+        "step 11: Click on button buyProduct",
+        "step 12: Click on link placeOrder -> Navigate to page 'cart#cart'",
+        "step 13: Click on button increaseQuantity",
+        "step 14: Click on button decreaseQuantity",
+        "step 15: Click on div quantityInput",
+        "step 16: Click on div quantityInput",
+        "step 17: Click on button removeItem",
+        "step 18: Click on button removeItem2",
+        "step 19: Click on link homePage -> Navigate to page '/'",
+        "step 20: Click on button homeAction",
+        "step 21: Click on link cartSummary -> Navigate to page 'cart#cart'",
+        "step 22: Click on link homePage -> Navigate to page ''",
+        "step 23: Take full page screenshot as checkpoint"
+    ]
+}
